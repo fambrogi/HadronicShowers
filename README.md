@@ -1,2 +1,3 @@
 # HadronicShowers
-Develop code for FastSim Hadronic showers
+# Contributors :: Federico Ambrogi
+Developing the code for FastSim Hadronic showers
